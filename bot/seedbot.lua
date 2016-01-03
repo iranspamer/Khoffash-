@@ -229,7 +229,7 @@ An advance Administration bot based on yagop/telegram-bot
 
 https://github.com/SEEDTEAM/TeleSeed
 Admins
-@khoffash_Admin [Founder]
+@MAHANSOFT [Founder]
 @khoffash1234[Developer]
 @ADRIN437 [Manager]
  
